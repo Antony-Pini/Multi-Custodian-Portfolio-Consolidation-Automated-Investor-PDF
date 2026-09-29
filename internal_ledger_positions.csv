@@ -1,0 +1,16 @@
+instrument,custodian,booked_quantity
+MSFT,broker,3100.0
+NVDA,broker,4250.0
+AMZN,broker,3800.0
+GOOGL,broker,3600.0
+SPY,broker,1900.0
+TLT,broker,6500.0
+OAT34,bank,25000.0
+BUND35,bank,15000.0
+MC,bank,1100.0
+TTE,bank,9000.0
+AI,bank,3000.0
+MMF,bank,1200.0
+BTC,exchange,18.42
+ETH,exchange,180.5
+SOL,exchange,2500.0

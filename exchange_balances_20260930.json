@@ -1,0 +1,32 @@
+{
+  "account_id": "demo-7731",
+  "server_time": 1790805600000,
+  "balances": [
+    {
+      "asset": "XBT",
+      "free": "18.42",
+      "locked": "0.00000000"
+    },
+    {
+      "asset": "ETH",
+      "free": "170.5",
+      "locked": "10.0"
+    },
+    {
+      "asset": "SOL",
+      "free": "2500",
+      "locked": "0"
+    },
+    {
+      "asset": "USDC",
+      "free": "250000.00",
+      "locked": "0"
+    }
+  ],
+  "tickers": {
+    "XBTUSD": "85559.96",
+    "ETHUSD": "1735.70",
+    "SOLUSD": "73.88",
+    "USDCUSD": "1.0000"
+  }
+}
